@@ -1,0 +1,21 @@
+:root{
+    --textColor: #ffffff;
+    --purple: #531690;
+    --gray : #6A6565;
+}
+
+
+body{
+    font-family: 'Inter', sans-serif;
+    background-color: black;
+    color: var(--textColor)
+
+}
+
+.container{
+    color:white;
+    max-width: 1780px;
+    margin: 0 auto;
+    padding:  0 30px;
+
+}

@@ -1,0 +1,97 @@
+.body_text{
+    position: absolute;
+    top: 350px;
+    font-size: 400%;
+    width: 25%;
+    font-weight: 600;
+    left:120px;
+    
+}
+
+.body_text_low{
+    position: absolute;
+    top: 690px;
+    font-size: 109%;
+    font-weight: 300;
+    left:120px;
+
+}
+
+.bitcoin_logo {
+    position: absolute;
+   
+    
+    top:180px;
+    left:990px;
+
+}
+
+
+
+.body_button_sign {
+ position: absolute;
+ top:560px;
+ left: -890px;
+ padding:  20px 190px 20px;
+ background-color: #7e0def;
+ /*background-color: #7F7E80;*/
+ border: 2px solid #7b16e1;
+ border-radius: 12px;
+ font-weight: 600;
+ letter-spacing: normal;
+ 
+
+}
+
+
+
+
+
+/* 
+.body_button_sign div{
+ font-size: 20px;
+}
+ */
+
+.Google_login{
+ position: absolute;
+ top:690px;
+ left: -890px;
+ padding:  15px 99px 20px;
+
+ /*background-color: #7F7E80;*/
+ border: 2px solid #535253;
+ border-radius: 12px;
+ font-weight: 600;
+ letter-spacing: normal;
+ 
+
+} 
+
+
+.Apple_login{
+ position: absolute;
+ top:690px;
+ left: -630px;
+ padding:  15px 99px 20px;
+
+ /*background-color: #7F7E80;*/
+ border: 2px solid #535253;
+ border-radius: 12px;
+ font-weight: 600;
+ letter-spacing: normal;
+ 
+
+} 
+
+
+
+
+
+
+.body_text_loww{
+ position: absolute;
+ top:650px;
+ left:-670px;
+ color:#949494;
+}

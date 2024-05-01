@@ -1,0 +1,89 @@
+.header {
+    color:black;
+    padding: 42px 0 56px;
+
+}
+
+.header_logo span {
+
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 1.5;
+    letter-spacing: 0.03em;
+
+}
+.header_row{
+
+    display: flex;
+    column-gap: 60px;
+    align-items: center;
+    justify-content: space-between;
+}
+.header_nav ul{
+   display: flex;
+   column-gap: 65px;
+   justify-content: space-between;
+   padding: 10px;
+}
+.header_nav {
+ font-weight: 500;
+ font-size:15px; 
+ line-height: 33px;
+ letter-spacing: 0.01em;
+ 
+}
+.header_nav a {
+    color: white;
+    text-transform: uppercase;
+}
+
+.header_nav-Sign_In {
+    padding:  20px 48px 17px;
+    background-color: #8C18FF;
+    border-radius: 10px;
+}
+
+.header_logo img {
+ letter-spacing: 10em;
+
+}
+
+
+.header_nav_Sign_Up {
+    padding:  20px 38px 18px;
+    /*background-color: #7F7E80;*/
+    border: 2px solid #7F7E80;
+    border-radius: 12px;
+
+    font-weight: 500;
+    letter-spacing: normal;
+}
+
+
+
+.header_nav:hover{
+    transform: 0.5px;
+
+
+}
+
+.nav_button button{
+   
+    padding: 13px 15px 13px;
+    line-height: 1.5;
+    letter-spacing: -0.03em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1838 @@
+.frameChild {
+  position: absolute;
+  top: -64px;
+  left: -28px;
+  width: 1939px;
+  height: 5150px;
+}
+.frameItem,
+.sellAndBuy {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 1920px;
+  height: 5085px;
+}
+.sellAndBuy {
+  top: 1150px;
+  left: 731px;
+  font-size: 48px;
+  font-weight: 600;
+  display: inline-block;
+  width: 351px;
+  height: 58px;
+}
+.buyCrypto,
+.sellAndBuy1 {
+  position: absolute;
+  font-weight: 500;
+}
+.sellAndBuy1 {
+  top: 1225px;
+  left: 620px;
+  font-size: 24px;
+  color: rgba(255, 255, 255, 0.5);
+  display: inline-block;
+  width: 616px;
+  height: 107px;
+}
+.buyCrypto {
+  top: 129px;
+  left: 456px;
+  text-align: center;
+}
+.frameInner {
+  position: absolute;
+  top: 130px;
+  left: 619.9px;
+  border-right: 2px solid rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  width: 2px;
+  height: 22px;
+}
+.markets {
+  top: 129px;
+  left: 656.8px;
+  font-weight: 500;
+  color: #6a6565;
+  text-align: center;
+}
+.lineDiv,
+.markets,
+.trade {
+  position: absolute;
+}
+.lineDiv {
+  top: 130px;
+  left: 788.7px;
+  background-color: #d9d9d9;
+  border-right: 2px solid rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  width: 2px;
+  height: 22px;
+}
+.trade {
+  top: 129px;
+  left: 825.6px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+}
+.frameChild1 {
+  position: absolute;
+  top: 130px;
+  left: 927.5px;
+  background-color: #d9d9d9;
+  border-right: 2px solid rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  width: 2px;
+  height: 22px;
+}
+.derivatives {
+  position: absolute;
+  top: 129px;
+  left: 964.4px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+}
+.frameChild2 {
+  position: absolute;
+  top: 130px;
+  left: 1126.3px;
+  background-color: #d9d9d9;
+  border-right: 2px solid rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  width: 2px;
+  height: 22px;
+}
+.tools {
+  position: absolute;
+  top: 129px;
+  left: 1163.2px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+}
+.frameChild3 {
+  position: absolute;
+  top: 130px;
+  left: 1266.1px;
+  background-color: #d9d9d9;
+  border-right: 2px solid rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  width: 2px;
+  height: 22px;
+}
+.faq {
+  position: absolute;
+  top: 129px;
+  left: 1303px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 3004.4px;
+  left: 1831.3px;
+  width: 507.1px;
+  height: 1058.8px;
+  object-fit: contain;
+}
+.frameChild4,
+.frameChild5,
+.frameChild6 {
+  position: absolute;
+  top: 3534px;
+  left: -392px;
+  width: 522.5px;
+  height: 534.7px;
+  object-fit: contain;
+}
+.frameChild5,
+.frameChild6 {
+  top: 978px;
+  left: -355px;
+}
+.frameChild6 {
+  top: 1007.5px;
+  width: 505px;
+  height: 503px;
+}
+.lorem {
+  top: 4226px;
+  left: 684px;
+  line-height: 150%;
+  color: rgba(255, 255, 255, 0.5);
+  width: 553px;
+}
+.div,
+.exxbtc,
+.lorem {
+  position: absolute;
+  text-align: center;
+  display: inline-block;
+}
+.div {
+  top: 4780px;
+  left: 665px;
+  line-height: 150%;
+  color: rgba(255, 255, 255, 0.5);
+  width: 553px;
+}
+.exxbtc {
+  top: 4649px;
+  left: 870px;
+  font-size: 50px;
+  line-height: 120%;
+  font-weight: 600;
+  width: 143px;
+}
+.b,
+.div1 {
+  position: relative;
+  line-height: 130%;
+}
+.div1 {
+  font-size: 16px;
+  color: #e11a38;
+}
+.parent {
+  position: absolute;
+  top: 1416px;
+  left: 257px;
+  width: 132px;
+  height: 58px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.component1Icon {
+  width: 32px;
+  position: relative;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.bitcoin {
+  position: relative;
+  font-size: 14px;
+  line-height: 130%;
+  color: rgba(255, 255, 255, 0.6);
+}
+.btcParent,
+.component1Parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3px;
+}
+.component1Parent {
+  position: absolute;
+  top: 1347px;
+  left: 257px;
+  border: 10px solid #000;
+  box-sizing: border-box;
+  width: 136px;
+  height: 50px;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+  font-size: 16px;
+}
+.graphIcon {
+  position: absolute;
+  top: 1486px;
+  left: 244px;
+  width: 197px;
+  height: 50px;
+  overflow: hidden;
+}
+.div2 {
+  position: relative;
+  font-size: 16px;
+  line-height: 130%;
+  color: #02c173;
+}
+.component1Group,
+.group {
+  position: absolute;
+  top: 1415px;
+  left: 507px;
+  width: 74px;
+  height: 58px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.component1Group {
+  top: 1346px;
+  border: 10px solid #000;
+  box-sizing: border-box;
+  width: 127px;
+  height: 50px;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+  font-size: 16px;
+}
+.iconlinearprofile {
+  position: absolute;
+  top: 4006px;
+  left: 9593px;
+  width: 34px;
+  height: 34px;
+}
+.vectorIcon {
+  position: absolute;
+  width: calc(100% - 1753px);
+  top: 1493px;
+  right: 1244px;
+  left: 509px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 41px;
+}
+.container {
+  position: absolute;
+  top: 1415px;
+  left: 770px;
+  width: 73px;
+  height: 58px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.image4Icon {
+  width: 25px;
+  position: relative;
+  height: 24px;
+  object-fit: cover;
+}
+.image4Parent {
+  position: absolute;
+  top: 1346px;
+  left: 770px;
+  border: 10px solid #000;
+  box-sizing: border-box;
+  width: 105px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+  font-size: 16px;
+}
+.frameChild7 {
+  position: absolute;
+  width: calc(100% - 1752px);
+  top: 1493px;
+  right: 981px;
+  left: 771px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 41px;
+}
+.div4 {
+  width: 81px;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.frameDiv {
+  position: absolute;
+  top: 1417px;
+  left: 977px;
+  width: 132px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.image10Icon {
+  width: 30px;
+  position: relative;
+  height: 32px;
+  object-fit: cover;
+}
+.image10Wrapper {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent,
+.frameWrapper {
+  border: 10px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameParent {
+  gap: 8px;
+}
+.frameWrapper {
+  position: absolute;
+  top: 1348px;
+  left: 971px;
+  box-sizing: border-box;
+  width: 143px;
+  height: 39px;
+  font-size: 16px;
+}
+.graphIcon1 {
+  position: absolute;
+  top: 1488px;
+  left: 988px;
+  width: 196px;
+  height: 50px;
+  overflow: hidden;
+}
+.parent1 {
+  position: absolute;
+  top: 1416px;
+  left: 1228px;
+  width: 74px;
+  height: 58px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.image3Icon {
+  width: 31px;
+  position: relative;
+  height: 31px;
+  object-fit: cover;
+}
+.image3Parent {
+  position: absolute;
+  top: 1347px;
+  left: 1228px;
+  border: 10px solid #000;
+  box-sizing: border-box;
+  width: 124px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+  font-size: 16px;
+}
+.frameChild8 {
+  position: absolute;
+  width: calc(100% - 1752px);
+  top: 1494px;
+  right: 523px;
+  left: 1229px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 42px;
+}
+.parent2 {
+  top: 1416px;
+  border: 10px solid #000;
+  box-sizing: border-box;
+  width: 74px;
+  height: 58px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.frameChild9,
+.image6Parent,
+.parent2 {
+  position: absolute;
+  left: 1490px;
+}
+.image6Parent {
+  top: 1347px;
+  border: 10px solid #000;
+  box-sizing: border-box;
+  width: 138px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+  font-size: 16px;
+}
+.frameChild9 {
+  width: calc(100% - 1751px);
+  top: 1494px;
+  right: 261px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 42px;
+}
+.sellAndBuy2 {
+  position: absolute;
+  top: 3275px;
+  left: 456px;
+  font-size: 24px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.5);
+  display: inline-block;
+  width: 616px;
+  height: 107px;
+}
+.frameChild10 {
+  width: 44px;
+  height: 42px;
+}
+.frameChild11,
+.frameContainer {
+  position: absolute;
+  box-sizing: border-box;
+}
+.frameContainer {
+  top: 3460px;
+  left: 456px;
+  border: 10px solid #000;
+  width: 112px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameChild11 {
+  top: 1621.5px;
+  left: 812.5px;
+  border-top: 1px solid #fff;
+  width: 249px;
+  height: 1px;
+}
+.exxbtc1 {
+  width: 208px;
+  position: relative;
+  display: inline-block;
+  height: 56px;
+  flex-shrink: 0;
+}
+.div10,
+.div11,
+.div12,
+.div8,
+.div9 {
+  position: absolute;
+  border-radius: 12px;
+  border: 3px solid rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  width: 325px;
+  height: 256px;
+}
+.div8 {
+  top: 3667px;
+  left: 781px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 35px;
+  font-size: 50px;
+}
+.div10,
+.div11,
+.div12,
+.div9 {
+  top: 3411px;
+  left: 1106px;
+}
+.div10,
+.div11,
+.div12 {
+  top: 3923px;
+}
+.div11,
+.div12 {
+  left: 456px;
+}
+.div12 {
+  top: 3411px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 115px;
+  left: 101px;
+  background-color: #000;
+  width: 49px;
+  height: 47px;
+}
+.image11Icon {
+  position: absolute;
+  top: 219px;
+  left: 952px;
+  width: 843.8px;
+  height: 866px;
+  object-fit: contain;
+}
+.groupChild {
+  position: absolute;
+  bottom: 39.1px;
+  left: 0;
+  width: 164px;
+  height: 23.5px;
+}
+.updated11Dec {
+  position: absolute;
+  top: 48.9px;
+  left: 2px;
+  line-height: 100%;
+  display: inline-block;
+  width: 166px;
+  height: 13.7px;
+}
+.groupParent {
+  position: absolute;
+  bottom: 2454.3px;
+  left: 1518px;
+  width: 168px;
+  height: 62.6px;
+  font-size: 14px;
+  color: #505068;
+  font-family: "Inter Tight";
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 0.37%;
+  width: 1.04%;
+  top: 47.72%;
+  right: 92.45%;
+  bottom: 51.91%;
+  left: 6.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameChild12 {
+  position: absolute;
+  top: 2522px;
+  left: 575px;
+  width: 734px;
+  height: 509px;
+}
+.groupItem {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.div13 {
+  position: absolute;
+  height: 48.21%;
+  width: 40.13%;
+  top: 0;
+  left: 59.87%;
+  line-height: 100%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frameGroup {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 62.8px;
+  height: 39.2px;
+}
+.div14 {
+  position: absolute;
+  height: 51.6%;
+  width: 31.02%;
+  top: 0;
+  left: 68.98%;
+  line-height: 100%;
+  font-weight: 500;
+  display: inline-block;
+}
+.chatbox2Icon {
+  position: absolute;
+  top: 12.9px;
+  left: 0;
+  width: 21.3px;
+  height: 24.5px;
+  overflow: hidden;
+}
+.div15,
+.groupDiv {
+  position: absolute;
+  top: 0;
+}
+.groupDiv {
+  height: 93.03%;
+  width: 25.43%;
+  right: 34.09%;
+  bottom: 6.97%;
+  left: 40.48%;
+}
+.div15 {
+  height: 58.7%;
+  width: 26.26%;
+  left: 73.74%;
+  line-height: 100%;
+  font-weight: 500;
+  display: inline-block;
+}
+.arrowUndo1Icon {
+  position: absolute;
+  top: 8.1px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.parent3 {
+  position: absolute;
+  height: 80.1%;
+  width: 27.87%;
+  top: 2.49%;
+  right: 0;
+  bottom: 17.41%;
+  left: 72.13%;
+}
+.groupContainer {
+  position: absolute;
+  bottom: 2487.7px;
+  left: 967px;
+  width: 192.7px;
+  height: 40.2px;
+  font-size: 14px;
+  color: #505068;
+  font-family: "Inter Tight";
+}
+.div16,
+.div17 {
+  position: absolute;
+  line-height: 100%;
+  font-weight: 500;
+  display: inline-block;
+}
+.div16 {
+  height: 0.39%;
+  width: 1.31%;
+  top: 47.36%;
+  left: 8.18%;
+  font-size: 14px;
+  font-family: "Inter Tight";
+  color: #505068;
+}
+.div17 {
+  height: 48.34%;
+  width: 34.13%;
+  top: 0;
+  left: 65.87%;
+}
+.chatbox2Icon1 {
+  top: 15.1px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.chatbox2Icon1,
+.div18,
+.parent4 {
+  position: absolute;
+}
+.parent4 {
+  height: 0.81%;
+  width: 2.61%;
+  top: 47.34%;
+  right: 87.03%;
+  bottom: 51.85%;
+  left: 10.36%;
+  font-size: 14px;
+  color: #505068;
+  font-family: "Inter Tight";
+}
+.div18 {
+  height: 50.13%;
+  width: 28.72%;
+  top: 0;
+  left: 71.28%;
+  line-height: 100%;
+  font-weight: 500;
+  display: inline-block;
+}
+.arrowUndo1Icon1 {
+  position: absolute;
+  top: 13.7px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.div19,
+.div20,
+.div21,
+.parent5,
+.updated11Dec1 {
+  position: absolute;
+  font-size: 14px;
+  font-family: "Inter Tight";
+  color: #505068;
+}
+.parent5 {
+  height: 0.78%;
+  width: 2.56%;
+  top: 47.37%;
+  right: 83.54%;
+  bottom: 51.85%;
+  left: 13.91%;
+}
+.div19,
+.div20,
+.div21,
+.updated11Dec1 {
+  top: 2334px;
+  left: 125px;
+  line-height: 100%;
+}
+.div19,
+.div20,
+.div21 {
+  height: 0.39%;
+  width: 1.31%;
+  top: 47.47%;
+  left: 80.52%;
+  font-weight: 500;
+  display: inline-block;
+}
+.div20,
+.div21 {
+  top: 47.53%;
+  left: 88.33%;
+}
+.div21 {
+  width: 0.89%;
+  top: 47.47%;
+  left: 84.35%;
+}
+.topNftProject,
+.vectorParent {
+  position: absolute;
+  text-align: left;
+}
+.vectorParent {
+  top: -1px;
+  left: calc(50% - 960px);
+  width: 1920px;
+  height: 4810px;
+  font-size: 20px;
+}
+.topNftProject {
+  top: 1766px;
+  left: 771px;
+  font-size: 36px;
+  font-weight: 500;
+  display: inline-block;
+  width: 356px;
+}
+.indexChild {
+  top: 1475px;
+  left: 1705px;
+  width: 521px;
+  height: 404px;
+}
+.div22,
+.indexChild,
+.orUse {
+  position: absolute;
+}
+.div22 {
+  top: calc(50% - 1706px);
+  left: calc(50% - 498px);
+  width: 886px;
+  height: 24px;
+}
+.orUse {
+  top: 886px;
+  left: 159px;
+  font-size: 15px;
+  line-height: 150%;
+  color: rgba(255, 255, 255, 0.5);
+  display: inline-block;
+  width: 585px;
+  height: 43px;
+}
+.nextLevel {
+  margin: 0;
+}
+.nextLevelToContainer {
+  position: absolute;
+  top: 404px;
+  left: 166px;
+  font-size: 64px;
+  line-height: 120%;
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+  width: 856px;
+}
+.signUpNow {
+  width: 353px;
+  position: relative;
+  font-weight: 500;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.div23 {
+  top: 787px;
+  left: 159px;
+  border-radius: 12px;
+  background-color: #8c18ff;
+  width: 585px;
+  height: 75px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 35px;
+  box-sizing: border-box;
+  font-size: 24px;
+}
+.div23,
+.div24,
+.signIn {
+  position: absolute;
+}
+.div24 {
+  top: 117px;
+  left: 1456px;
+  border-radius: 12px;
+  background-color: #8c18ff;
+  width: 162px;
+  height: 51px;
+}
+.signIn {
+  top: 134px;
+  left: 1488px;
+  font-size: 15px;
+  font-weight: 500;
+  display: inline-block;
+  width: 100px;
+  height: 19px;
+}
+.image1Icon {
+  width: 33px;
+  position: relative;
+  height: 40px;
+  object-fit: cover;
+}
+.div25 {
+  position: absolute;
+  top: 924px;
+  left: 461px;
+  border-radius: 12px;
+  border: 3px solid rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  width: 279px;
+  height: 76px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 35px;
+}
+.image2Icon {
+  width: 37px;
+  position: relative;
+  height: 37px;
+  object-fit: cover;
+}
+.div26 {
+  position: absolute;
+  top: 924px;
+  left: 159px;
+  border-radius: 12px;
+  border: 3px solid rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  width: 278px;
+  height: 76px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 35px;
+}
+.signUp {
+  width: 97px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.div27,
+.exxbtc3 {
+  position: absolute;
+}
+.div27 {
+  top: 117px;
+  left: 1649px;
+  border-radius: 12px;
+  border: 3px solid #7f7e80;
+  box-sizing: border-box;
+  width: 145px;
+  height: 51px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 35px;
+  font-size: 15px;
+}
+.exxbtc3 {
+  top: 114px;
+  left: 162px;
+  font-size: 45px;
+  text-transform: uppercase;
+  font-weight: 600;
+  text-align: left;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.indexChild1,
+.indexInner,
+.indexItem {
+  position: absolute;
+  border-radius: 2px;
+  width: 23px;
+  height: 23px;
+}
+.indexItem {
+  top: 116px;
+  left: 127px;
+  background: linear-gradient(249.84deg, #8512f5, rgba(57, 15, 98, 0));
+}
+.indexChild1,
+.indexInner {
+  top: 140px;
+}
+.indexInner {
+  left: 101px;
+  background: linear-gradient(249.84deg, #8512f5, rgba(57, 15, 98, 0));
+}
+.indexChild1 {
+  left: 127px;
+  background-color: #d9d9d9;
+}
+.indexChild2,
+.indexChild3 {
+  position: absolute;
+  top: 116px;
+  left: 101px;
+}
+.indexChild2 {
+  border-radius: 2px;
+  background-color: #d9d9d9;
+  width: 23px;
+  height: 23px;
+}
+.indexChild3 {
+  background-color: #000;
+  width: 49px;
+  height: 47px;
+}
+.indexChild8 {
+  position: absolute;
+  top: 394px;
+  left: 121px;
+  width: 521px;
+  height: 268px;
+  opacity: 0.1;
+}
+.inYouBuysell {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.inYouBuysellYouNftGetNeWrapper {
+  position: absolute;
+  top: 1810px;
+  left: 676px;
+  width: 585px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.5);
+}
+.indexChild9 {
+  position: absolute;
+  top: -394px;
+  left: 247px;
+  width: 1312px;
+  height: 449px;
+}
+.present000001Icon {
+  position: absolute;
+  top: 724px;
+  left: 163px;
+  width: 24px;
+  height: 22px;
+  object-fit: cover;
+}
+.marketplaceAvailability {
+  position: absolute;
+  top: 323px;
+  left: 322px;
+  line-height: 100%;
+  text-align: left;
+}
+.whetherYoureAn {
+  position: absolute;
+  top: 427px;
+  left: 241px;
+  font-size: 16px;
+  line-height: 140%;
+  color: #505068;
+  display: inline-block;
+  width: 821px;
+}
+.arb {
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+}
+.arbWrapper {
+  top: 34px;
+  left: 242px;
+  border-radius: 30px;
+  background-color: #000;
+  border: 2px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 20px;
+}
+.arbWrapper,
+.ltcWrapper,
+.solanaWrapper {
+  position: absolute;
+  overflow: hidden;
+}
+.ltcWrapper {
+  top: 68px;
+  left: 1109px;
+  border-radius: 30px;
+  background-color: #000;
+  border: 2px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 20px;
+}
+.solanaWrapper {
+  top: 58px;
+  left: 110px;
+}
+.avaxWrapper,
+.pepeWrapper,
+.solanaWrapper {
+  border-radius: 30px;
+  background-color: #000;
+  border: 2px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 20px;
+}
+.pepeWrapper {
+  position: absolute;
+  top: 116px;
+  left: 322px;
+  overflow: hidden;
+}
+.avaxWrapper {
+  top: 140px;
+  left: 464px;
+  box-sizing: border-box;
+  width: 92px;
+}
+.avaxWrapper,
+.maticWrapper,
+.xmrWrapper {
+  position: absolute;
+  overflow: hidden;
+}
+.xmrWrapper {
+  top: 37px;
+  left: 859px;
+  border-radius: 30px;
+  background-color: #000;
+  border: 2px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 20px;
+}
+.maticWrapper {
+  top: 113px;
+  left: 919px;
+}
+.btcWrapper,
+.maticWrapper,
+.tronWrapper {
+  border-radius: 30px;
+  background-color: #000;
+  border: 2px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 20px;
+}
+.tronWrapper {
+  position: absolute;
+  top: 44px;
+  left: 729px;
+  overflow: hidden;
+}
+.btcWrapper {
+  top: 51px;
+  left: 440px;
+}
+.btcWrapper,
+.ethWrapper,
+.frameParent2 {
+  position: absolute;
+  overflow: hidden;
+}
+.ethWrapper {
+  top: 133px;
+  left: 791px;
+  border-radius: 30px;
+  background-color: #000;
+  border: 2px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 20px;
+}
+.frameParent2 {
+  top: 20px;
+  left: 0;
+  border-radius: 12px;
+  background: conic-gradient(
+    from 88.87deg at 50% 50%,
+    #845898 -54.38deg,
+    #000 62.77deg,
+    #c8c3ff 226.67deg,
+    #845898 305.62deg,
+    #000 422.77deg
+  );
+  width: 1320px;
+  height: 236px;
+}
+.frameParent1,
+.groupInner {
+  position: absolute;
+  top: 0;
+  left: 548px;
+  width: 230px;
+  height: 232px;
+}
+.frameParent1 {
+  left: 0;
+  width: 1320px;
+  height: 256px;
+  font-size: 20px;
+}
+.marketplaceAvailabilityParent {
+  position: absolute;
+  top: 2585px;
+  left: 318px;
+  width: 1320px;
+  height: 493px;
+  font-size: 64px;
+}
+.com,
+.rules {
+  position: absolute;
+  color: #505068;
+  display: inline-block;
+  width: 133px;
+}
+.rules {
+  top: 4916px;
+  left: 125px;
+  line-height: 140%;
+}
+.com {
+  left: 254px;
+}
+.com,
+.com1,
+.rules1 {
+  top: 4916px;
+  line-height: 140%;
+}
+.com1 {
+  position: absolute;
+  left: 415px;
+  color: #505068;
+  display: inline-block;
+  width: 133px;
+}
+.rules1 {
+  left: 635px;
+}
+.com2,
+.com3,
+.com4,
+.rules1 {
+  position: absolute;
+  color: #505068;
+  display: inline-block;
+  width: 133px;
+}
+.com2 {
+  top: 4917px;
+  left: 930px;
+  line-height: 140%;
+}
+.com3,
+.com4 {
+  top: 4916px;
+}
+.com3 {
+  left: 1118px;
+  line-height: 140%;
+}
+.com4 {
+  left: 1287px;
+}
+.com4,
+.com5,
+.support {
+  line-height: 140%;
+}
+.com5 {
+  position: absolute;
+  top: 4981px;
+  left: 930px;
+  color: #505068;
+  display: inline-block;
+  width: 133px;
+}
+.support {
+  position: relative;
+}
+.contact,
+.div28 {
+  position: absolute;
+}
+.div28 {
+  top: 4898px;
+  left: 1593px;
+  border-radius: 12px;
+  border: 3px solid rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  width: 192px;
+  height: 51px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 35px;
+  font-size: 10px;
+}
+.contact {
+  top: 4794px;
+  left: 1644px;
+  line-height: 140%;
+}
+.indexInner1 {
+  position: absolute;
+  bottom: 2882px;
+  left: 153px;
+  width: 24px;
+  height: 24px;
+}
+.backet,
+.jackenParty {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 100%;
+  font-weight: 600;
+}
+.backet {
+  top: 30px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #505068;
+}
+.jackenPartyParent,
+.rectangleIcon {
+  position: absolute;
+  top: 274px;
+  left: 0;
+  width: 118px;
+  height: 44px;
+}
+.rectangleIcon {
+  top: 0;
+  border-radius: 12px;
+  width: 254px;
+  height: 254px;
+  object-fit: cover;
+}
+.div29,
+.groupParent1,
+.groupParent3 {
+  position: absolute;
+  width: 254px;
+  height: 318px;
+}
+.groupParent1 {
+  top: 1956px;
+  left: 123px;
+  text-align: left;
+  font-size: 20px;
+  font-family: "Inter Tight";
+}
+.div29,
+.groupParent3 {
+  top: 0;
+  left: 2px;
+}
+.div29 {
+  height: 46.1%;
+  width: 42.5%;
+  left: 57.5%;
+  line-height: 100%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frameParent3 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 59.3px;
+  height: 41px;
+}
+.div30 {
+  position: absolute;
+  height: 58.7%;
+  width: 32.82%;
+  top: 0;
+  left: 67.18%;
+  line-height: 100%;
+  font-weight: 500;
+  display: inline-block;
+}
+.chatbox2Icon2 {
+  position: absolute;
+  top: 8.2px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.parent6 {
+  height: 78.54%;
+  width: 27.62%;
+  top: 4.15%;
+  right: 33.67%;
+  bottom: 17.32%;
+  left: 38.71%;
+}
+.div31,
+.parent6,
+.parent7 {
+  position: absolute;
+}
+.div31 {
+  height: 58.7%;
+  width: 28.43%;
+  top: 0;
+  left: 71.57%;
+  line-height: 100%;
+  font-weight: 500;
+  display: inline-block;
+}
+.parent7 {
+  height: 78.54%;
+  width: 26.3%;
+  top: 4.15%;
+  right: 0;
+  bottom: 17.32%;
+  left: 73.7%;
+}
+.groupParent5 {
+  position: absolute;
+  bottom: 29.9px;
+  left: 0;
+  width: 188.6px;
+  height: 41px;
+}
+.updated11Dec2 {
+  position: absolute;
+  top: 56.9px;
+  left: 0;
+  line-height: 100%;
+}
+.groupParent4 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 188.6px;
+  height: 70.9px;
+  font-size: 14px;
+  color: #505068;
+}
+.groupParent2 {
+  position: absolute;
+  top: 1954px;
+  left: 404px;
+  width: 256px;
+  height: 397px;
+  text-align: left;
+  font-size: 20px;
+  font-family: "Inter Tight";
+}
+.groupChild4 {
+  position: absolute;
+  bottom: -0.1px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.div32 {
+  position: absolute;
+  height: 49.09%;
+  width: 41.52%;
+  top: 0;
+  left: 58.48%;
+  line-height: 100%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frameParent4 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 60.7px;
+  height: 38.5px;
+}
+.div33 {
+  position: absolute;
+  height: 49.09%;
+  width: 33.4%;
+  top: 0;
+  left: 66.6%;
+  line-height: 100%;
+  font-weight: 500;
+  display: inline-block;
+}
+.chatbox2Icon3 {
+  position: absolute;
+  top: 14.6px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.div34,
+.parent8 {
+  position: absolute;
+  top: 0;
+}
+.parent8 {
+  height: 100%;
+  width: 26.86%;
+  right: 33.26%;
+  bottom: 0;
+  left: 39.87%;
+}
+.div34 {
+  height: 51.78%;
+  width: 27.87%;
+  left: 72.13%;
+  line-height: 100%;
+  font-weight: 500;
+  display: inline-block;
+}
+.arrowUndo1Icon3 {
+  position: absolute;
+  top: 12.6px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.parent9 {
+  position: absolute;
+  height: 94.81%;
+  width: 26.55%;
+  top: 0;
+  right: 0;
+  bottom: 5.19%;
+  left: 73.45%;
+}
+.groupParent9 {
+  position: absolute;
+  bottom: 30px;
+  left: 0;
+  width: 190.6px;
+  height: 38.5px;
+}
+.updated11Dec3 {
+  position: absolute;
+  top: 54.5px;
+  left: 0;
+  line-height: 100%;
+}
+.groupParent8 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 190.6px;
+  height: 68.5px;
+  font-size: 14px;
+  color: #505068;
+}
+.groupParent6 {
+  position: absolute;
+  top: 1956px;
+  left: 684px;
+  width: 256px;
+  height: 397px;
+  text-align: left;
+  font-size: 20px;
+  font-family: "Inter Tight";
+}
+.updated11Dec4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 100%;
+}
+.updated11DecAt244PmWrapper {
+  position: absolute;
+  top: 385px;
+  left: 0;
+  width: 166px;
+  height: 14px;
+  font-size: 14px;
+  color: #505068;
+}
+.groupParent10 {
+  position: absolute;
+  top: 1954px;
+  left: 967px;
+  width: 256px;
+  height: 399px;
+  text-align: left;
+  font-size: 20px;
+  font-family: "Inter Tight";
+}
+.div35,
+.groupParent13 {
+  position: absolute;
+  top: 0;
+  left: 9px;
+  width: 254px;
+  height: 318px;
+}
+.div35 {
+  height: 48.46%;
+  width: 42.57%;
+  left: 57.43%;
+  line-height: 100%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frameParent5 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 59.2px;
+  height: 39px;
+}
+.div36 {
+  position: absolute;
+  height: 48.46%;
+  width: 32.2%;
+  top: 0;
+  left: 67.8%;
+  line-height: 100%;
+  font-weight: 500;
+  display: inline-block;
+}
+.chatbox2Icon4 {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.div37,
+.parent10 {
+  position: absolute;
+  top: 0;
+}
+.parent10 {
+  height: 100%;
+  width: 26.94%;
+  right: 32.98%;
+  bottom: 0;
+  left: 40.08%;
+}
+.div37 {
+  height: 57.27%;
+  width: 28.14%;
+  left: 71.86%;
+  line-height: 100%;
+  font-weight: 500;
+  display: inline-block;
+}
+.arrowUndo1Icon4 {
+  position: absolute;
+  top: 9px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.parent11 {
+  position: absolute;
+  height: 84.62%;
+  width: 25.42%;
+  top: 7.69%;
+  right: 0;
+  bottom: 7.69%;
+  left: 74.58%;
+}
+.groupParent15 {
+  position: absolute;
+  bottom: 30.9px;
+  left: 0;
+  width: 197.1px;
+  height: 39px;
+}
+.updated11Dec5 {
+  position: absolute;
+  top: 55.9px;
+  left: 0;
+  line-height: 100%;
+}
+.groupParent14 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 197.1px;
+  height: 69.9px;
+  font-size: 14px;
+  color: #505068;
+}
+.groupParent12 {
+  position: absolute;
+  top: 1958px;
+  left: 1232px;
+  width: 263px;
+  height: 395px;
+  text-align: left;
+  font-size: 20px;
+  font-family: "Inter Tight";
+}
+.backet5,
+.jackenParty5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 100%;
+  font-weight: 600;
+  display: inline-block;
+  width: 118px;
+  height: 19.6px;
+}
+.backet5 {
+  top: 29.4px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #505068;
+  width: 43px;
+  height: 13.7px;
+}
+.groupChild8,
+.jackenPartyParent3 {
+  position: absolute;
+  top: 267.9px;
+  left: 0;
+  width: 118px;
+  height: 43px;
+}
+.groupChild8 {
+  top: 0;
+  border-radius: 12px;
+  width: 254px;
+  height: 248.4px;
+  object-fit: cover;
+}
+.div38,
+.groupParent16,
+.indexInner2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 254px;
+  height: 311px;
+}
+.div38,
+.indexInner2 {
+  top: 1961px;
+  left: 1524px;
+  text-align: left;
+  font-size: 20px;
+  font-family: "Inter Tight";
+}
+.div38 {
+  height: 0.37%;
+  width: 0.73%;
+  top: 41.52%;
+  left: 88.07%;
+  font-size: 14px;
+  line-height: 100%;
+  font-weight: 500;
+  color: #505068;
+  display: inline-block;
+}
+.index1 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 5082px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 25px;
+  color: #fff;
+  font-family: Inter;
+}
